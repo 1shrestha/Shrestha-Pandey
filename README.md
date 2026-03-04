@@ -6,7 +6,7 @@ Strong Interest in problem solving, software development , and real-world innova
 2:-Software Development Projects.
 3:-Continuously improving coding and system design skills.
 # Technical Skills
-Languages: Python,C,SQL
+Languages: Python,C,SQL,Dvelopment(Front-end)
 Core Concepts: Data Structures, Algorithms, Os and COA
 Tools & Technologies:VS Code, Github, Anaconda, jupyter
 # Goals
